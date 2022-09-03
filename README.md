@@ -3,7 +3,7 @@
 
 [![](https://img.shields.io/badge/@mihail--brinza-%23181717?style=flat-square&logo=github)](https://github.com/mihail-brinza)
 [![](https://img.shields.io/badge/Mihail%20Brinza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mihail-brinza/)](https://www.linkedin.com/in/mihail-brinza/)
-[![](https://img.shields.io/badge/@mihail--%23181717?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/10777618/mihail)
+[![](https://img.shields.io/badge/Mihail-%23181717?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/10777618/mihail)
 
 
 
