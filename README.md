@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi 👋, I'm Mihail Brinza
+------
+
+[![](https://img.shields.io/badge/-@mihail-brinza-%23181717?style=flat-square&logo=github)](https://github.com/mihail-brinza)
+[![](https://img.shields.io/badge/-Mihail%20Brinza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mihail-brinza/)](https://www.linkedin.com/in/mihail-brinza/)
 
 <!--
 **mihail-brinza/mihail-brinza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
